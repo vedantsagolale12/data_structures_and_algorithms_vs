@@ -1,0 +1,6 @@
+resources = {
+     url :  "https://www.w3schools.com/",
+     books : "Automate the boring stuff with javascript",
+     video : "javascript for beginners",
+     tutorials : "javascript tutorials for beginners"
+     };
